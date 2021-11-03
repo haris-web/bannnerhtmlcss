@@ -1,0 +1,22 @@
+@media screen and (max-width: 680px) {
+    .banner{
+        border: 1px solid orange;
+        max-width: 450px;
+        margin: 0 px;
+        display: flex;
+        flex-direction: column-reverse;
+        background-color:#1c1938;
+        /* background-color:hsl(277, 64%, 61%); */
+    }
+    img{
+        width: 100%;
+    
+    }
+    .body-text{
+        text-align: center;
+        padding: 20px 20px;
+    }
+    .detail{
+        padding: 15px 20px;
+    }
+  }
